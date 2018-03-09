@@ -1,0 +1,1 @@
+# wowza_autoscaling_bash_script_on_aws
